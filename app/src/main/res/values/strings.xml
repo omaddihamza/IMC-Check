@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">IMC Check</string>
+    <string name="imc_result_text">Votre IMC est :</string>
+</resources>
