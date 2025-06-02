@@ -19,5 +19,5 @@ Résultats en Temps Réel : Calcul instantané et affichage des catégories
 <img src="./app/src/main/res/images/img.png" alt="">
 
 <h3> Result </h3>
-<img src="./app/src/main/res/images/img_2.png" alt="">
+<img src="./app/src/main/res/images/img_3.png" alt="">
 

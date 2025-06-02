@@ -17,7 +17,7 @@
         android:id="@+id/weightInput"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
+        android:layout_marginTop="20dp"
         android:hint="Poids (kg)"
         android:inputType="numberDecimal"
         android:backgroundTint="@color/purple_500"/>
@@ -26,16 +26,17 @@
         android:id="@+id/heightInput"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="8dp"
+        android:layout_marginTop="12dp"
         android:hint="Taille (cm)"
         android:inputType="numberDecimal"
         android:backgroundTint="@color/purple_500"/>
 
     <Button
         android:id="@+id/calculateButton"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="16dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
         android:text="Calculer IMC"
         android:textColor="@android:color/white"
         android:backgroundTint="@color/purple_500"/>
@@ -45,8 +46,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:layout_marginTop="24dp"
-        android:textSize="20sp"
+        android:layout_marginTop="28dp"
+        android:textSize="22sp"
         android:textStyle="bold"
         android:text="Votre IMC est:"/>
 
